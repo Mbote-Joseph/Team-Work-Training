@@ -1,0 +1,87 @@
+nav {
+  height: 55px;
+
+  background: #f55a5a;
+  display: flex;
+  align-items: center;
+}
+nav img {
+  height: 30px;
+  z-index: 1px;
+  margin-left: 40%;
+}
+
+nav span {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.4608px;
+  line-height: 22px;
+  letter-spacing: -0.075em;
+
+  color: #ffffff;
+}
+.country {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20.24px;
+  line-height: 22px;
+  letter-spacing: 0.17em;
+
+  color: #2b283a;
+}
+.link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 018.24px;
+  line-height: 20px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+  color: #918e9b;
+}
+
+h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 40px;
+
+  color: #2b283a;
+}
+
+h3 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20.24px;
+  line-height: 12px;
+
+  color: #2b283a;
+}
+p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18.24px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #2b283a;
+}
+
+.content {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+}
+
+.text {
+  margin-left: 50px;
+  margin-top: 90px;
+}
