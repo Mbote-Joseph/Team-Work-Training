@@ -85,3 +85,7 @@ p {
   margin-left: 50px;
   margin-top: 90px;
 }
+body{
+  background-color: bisque;
+  font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+}
